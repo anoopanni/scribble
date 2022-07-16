@@ -1,1 +1,1 @@
-# scribble pad where i dump random programs. 
+# scribble pad where I dump random programs. 
